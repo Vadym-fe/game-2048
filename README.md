@@ -24,3 +24,7 @@ npm install
 3. Запусти проєкт:
 
 npm start
+
+## Демо
+
+[Грати в 2048](https://vadym-fe.github.io/game-2048/)
