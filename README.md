@@ -1,4 +1,26 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048
+
+Браузерна гра 2048. Об’єднуй плитки з однаковими числами, щоб отримати плитку 2048.
+
+Керування: стрілки на клавіатурі.
+
+## Технології
+
+- HTML
+- SCSS
+- JavaScript
+
+## Локальний запуск
+
+1. Клонуй репозиторій і перейди в його папку:
+
+git clone https://github.com/Vadym-fe/game-2048.git
+cd game-2048
+
+2. Установи залежності:
+
+npm install
+
+3. Запусти проєкт:
+
+npm start
